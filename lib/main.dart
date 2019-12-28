@@ -24,18 +24,6 @@ class XylophoneApp extends StatelessWidget {
         ),
       );
 
-//  Expanded soundPlayer({Color color, int soundNumber}) {
-//    return Expanded(
-//      child: FlatButton(
-//        onPressed: () {
-//          playSound(soundNumber);
-//        },
-//        color: color,
-//        child: Text(''),
-//      ),
-//    );
-//  }
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
